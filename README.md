@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Improving my skills in DevOps, data analysis , testing and project management.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/adel145](https://github.com/adel145)
+- 👨‍💻 All of my projects are available at [https://github.com/adel145?tab=repositories]([https://github.com/adel145](https://github.com/adel145?tab=repositories))
 
 - 📝 I regularly write articles on [I’m planning to start writing about machine learning, data analysis, and Quantum computing.](I’m planning to start writing about machine learning, data analysis, and Quantum computing.)
 
