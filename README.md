@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/adel-mohsen-9702aa15b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adel-mohsen-9702aa15b/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/adel145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/adel145" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/3adelmohsen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/3adelmohsen/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/3adelmohsen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/3adelmohsen/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@livepixels3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@livepixels3d" height="30" width="40" /></a>
 <a href="https://discord.gg/adel145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adel145" height="30" width="40" /></a>
 </p>
