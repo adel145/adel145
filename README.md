@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Email-AdelMohsen145%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/adel145/Adel_Portfolio-">
-    <img src="https://img.shields.io/badge/Portfolio-GitHub%20Repo-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.crystalliaworld.com/">
     <img src="https://img.shields.io/badge/Website-Crystallia%20Store-22C55E?style=for-the-badge" />
