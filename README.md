@@ -3,10 +3,27 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adel-mohsen-9702aa15b/"><img src="https://img.shields.io/badge/LinkedIn-Adel%20Mohsen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:AdelMohsen145@gmail.com"><img src="https://img.shields.io/badge/Email-AdelMohsen145%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/adel145"><img src="https://img.shields.io/badge/GitHub-adel145-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/adel-mohsen-9702aa15b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Adel%20Mohsen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:AdelMohsen145@gmail.com">
+    <img src="https://img.shields.io/badge/Email-AdelMohsen145%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/adel145">
+    <img src="https://img.shields.io/badge/GitHub-adel145-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/adel145/Adel_Portfolio-">
+    <img src="https://img.shields.io/badge/Portfolio-GitHub%20Repo-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.crystalliaworld.com/">
+    <img src="https://img.shields.io/badge/Website-Crystallia%20Store-22C55E?style=for-the-badge" />
+  </a>
 </p>
+
+
+
+
+
 
 
 <p align="center">
@@ -57,6 +74,11 @@ My strongest “showcase” project: interactive portfolio + full-stack vibe.
 
 ---
 
+### 💎 Crystallia — Jewelry E-commerce Store (Built & Relaunched)
+**Live site:** https://www.crystalliaworld.com/  
+Built and customized my own jewelry e-commerce website, focusing on a clean product experience, performance, and SEO-ready structure.
+
+
 ## Tech stack (what I actually use)
 **Languages:** Python • JavaScript/TypeScript • SQL • C# • Java/C++  
 **Web:** React • Node.js • Express • REST APIs • Tailwind  
@@ -84,3 +106,4 @@ My strongest “showcase” project: interactive portfolio + full-stack vibe.
 ## Let’s connect
 - LinkedIn: https://www.linkedin.com/in/adel-mohsen-9702aa15b/
 - Email: AdelMohsen145@gmail.com
+- Live site: https://www.crystalliaworld.com/ 
