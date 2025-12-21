@@ -26,7 +26,12 @@
 - **ML:** baseline → evaluation → iteration (practical, not hype)
 
 ---
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adel145/adel145/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/adel145/adel145/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 ## Featured projects
 
 ### 🔥 Miktsoan (Final Project 2026) — Frontend
@@ -58,12 +63,7 @@ My strongest “showcase” project: interactive portfolio + full-stack vibe.
 **Tools:** Git/GitHub • Linux • Postman
 
 ---
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adel145/adel145/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/adel145/adel145/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+
 ## GitHub stats
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=adel145&show_icons=true&hide_border=true" />
