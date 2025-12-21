@@ -32,6 +32,7 @@
     <img alt="snake animation" src="https://raw.githubusercontent.com/adel145/adel145/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
 ## Featured projects
 
 ### 🔥 Miktsoan (Final Project 2026) — Frontend
