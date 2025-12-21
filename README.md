@@ -7,6 +7,12 @@
   <a href="mailto:AdelMohsen145@gmail.com"><img src="https://img.shields.io/badge/Email-AdelMohsen145%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/adel145"><img src="https://img.shields.io/badge/GitHub-adel145-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adel145/adel145/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/adel145/adel145/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=600&center=true&vCenter=true&width=640&lines=CS+B.Sc.+%7C+Israel;Building+automation%2C+data+pipelines+%26+ML+projects;React+%2B+TypeScript+%2B+Python+%2B+SQL+%2B+Git;Open+to+Automation%2FData%2FML+roles" />
